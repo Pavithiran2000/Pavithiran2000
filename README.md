@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Sivaganesh Pavithiran,
+
+I'm a second year software engineering undergraduate at University of Kelaniya
 
 <!--
 **Pavithiran2000/Pavithiran2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
