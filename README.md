@@ -17,7 +17,7 @@
   </a>
 </p> -->
 
-## Who am I ? 
+## 💫 Who am I ? 
 
  ```python
   class WhoAmI:
@@ -50,7 +50,7 @@
 </p>
 </div>
 
-##  Connect with me 
+## 🌐 Connect with me 
 <p align="center">
 <a href = "https://www.linkedin.com" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com" target="blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
@@ -112,9 +112,12 @@
 
 </br>
 
-<h5 align="center">
+<h4 align="center">
 𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 🤝
   </br>
 𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚍𝚊𝚢 ! 
-</h5>
-
+</h4>
+</br>
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/Pavithiran2000/Pavithiran2000?logo=github&style=for-the-badge"/>
+</p>
