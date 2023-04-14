@@ -1,8 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=5555&pause=1000&color=19BB19&width=770&height=60&lines=Hi++there%F0%9F%91%8B%2C++I'm+Sivaganesh+Pavithiran)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=5555&pause=1000&color=19BB19&width=770&height=60&lines=Hi++there%F0%9F%91%8B%2C++I'm+Sivaganesh+Pavithiran)](https://git.io/typing-svg)
+ -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=5555&pause=1000&color=19BB19&center=true&width=770&height=50&lines=Hi++there%F0%9F%91%8B%2C++I'm+Sivaganesh+Pavithiran" />
+</p>
 
 <h3 align="center"><b><i>2<sup>nd</sup> Year Software Engineering Undergraduate Student at University of Kelaniya</i></b></h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=5555&pause=1000&color=19BB19&center=true&width=770&height=95&lines=Competitive+Programmer;Always+learning+new+things)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=5555&pause=1000&color=19BB19&center=true&width=770&height=95&lines=Competitive+Programmer;Always+learning+new+things)](https://git.io/typing-svg) -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=5555&pause=1000&color=19BB19&center=true&width=770&height=95&lines=Competitive+Programmer;Always+learning+new+things" />
+</p>
 
 <!-- ![](https://komarev.com/ghpvc/?username=Pavithiran2000&color=19BB19&style=flat-square) -->
 <p align="center">
@@ -24,7 +31,7 @@
     user = 'Sivaganesh Pavithiran'
     currently_Studied = "Bachelor of Science Honours in Software Engineering"
     currently_learning = "Java, Python, JavaScript, Flutter, Kotlin"
-    ool_fact = "Coding Bugs were NOT named after an actual bug"
+    cool_fact = "Coding Bugs were NOT named after an actual bug"
 	hobbies = [
 				'Music',
 			 	'Gaming',
@@ -52,7 +59,7 @@
 
 ## 🌐 Connect with me 
 <p align="center">
-<a href = "https://www.linkedin.com" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/pavithiran-sivaganesh-b6352a243/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com" target="blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
 <a href="mailto:skspavithiran@gmail.com" target="blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
 <a href = "https://www.facebook.com" target="blank"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
@@ -110,6 +117,27 @@
   </a>
 </p>
 
+</br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+<img alt="Pavithiran's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithiran2000&theme=blue-green&layout=compact" height="192px"/>
+</div>
+
+</br>
+
+<div align="center">
+        <img title="Get streak stats for your profile at git.io/streak-stats" alt="Pavithiran's streak" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pavithiran2000&theme=blue_green"/>
+        <img title="Get streak stats for your profile at git.io/streak-stats" alt="Pavithiran's streak" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pavithiran2000&theme=blue_green"/>
+</div>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithiran2000&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pavithiran2000&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pavithiran2000&theme=blue_green) -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# My Github Status 📊
+![Metrics](https://metrics.lecoq.io/Pavithiran2000?template=classic&followup=1&achievements=1&activity=1&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=true&people.identicons.hide=false&people.size=38&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FColombo)
 </br>
 
 <h4 align="center">
