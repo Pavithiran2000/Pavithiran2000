@@ -11,6 +11,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=5555&pause=1000&color=19BB19&center=true&width=770&height=95&lines=Competitive+Programmer;Always+learning+new+things" />
 </p>
 
+[![my_portfolio](https://github.com/Pavithiran2000/Pavithiran2000/blob/main/assests/portfolio.png)](https://pavithiran2000.github.io/My_Portfolio/)</br>
+
 <!-- ![](https://komarev.com/ghpvc/?username=Pavithiran2000&color=19BB19&style=flat-square) -->
 <p align="center">
   <a href="https://skillicons.dev">
