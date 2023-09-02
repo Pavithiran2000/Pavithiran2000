@@ -73,14 +73,14 @@
 <h3 align="center"><b><i>Language Stack </i></b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=html,css,javascript,php,c,cpp,python,java,kotlin,dart" />
+   <img src="https://skillicons.dev/icons?i=html,css,javascript,php,c,cpp,cs,python,java,kotlin,dart" />
   </a>
 </p>
 
 <h3 align="center"><b><i>Frameworks and Libraries </i></b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=nodejs,react,spring,bootstrap,materialui,maven,flutter" />
+   <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,expressjs,spring,bootstrap,materialui,maven,flutter" />
   </a>
 </p>
 
@@ -94,7 +94,7 @@
 <h3 align="center"><b><i>Database Handling </i></b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=mysql" />
+   <img src="https://skillicons.dev/icons?i=mysql,firebase" />
   </a>
 </p>
 
