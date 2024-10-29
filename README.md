@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=5555&pause=1000&color=19BB19&center=true&width=770&height=50&lines=Hi++there%F0%9F%91%8B%2C++I'm+Sivaganesh+Pavithiran" />
 </p>
 
-<h3 align="center"><b><i>3<sup>nd</sup> Year Software Engineering Undergraduate Student at University of Kelaniya</i></b></h3>
+<h3 align="center"><b><i>4<sup>nd</sup> Year Software Engineering Undergraduate Student at University of Kelaniya</i></b></h3>
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=5555&pause=1000&color=19BB19&center=true&width=770&height=95&lines=Competitive+Programmer;Always+learning+new+things)](https://git.io/typing-svg) -->
 <p align="center">
